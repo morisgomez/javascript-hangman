@@ -1,4 +1,4 @@
-# JavaScript-Hangman
+# Hangman
 I utilized Vanilla Javascript to build a simple pop-up based hangman game.
 
 Detailed Summary:
