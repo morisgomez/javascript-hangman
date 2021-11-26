@@ -1,0 +1,18 @@
+h1 {
+    color: white;
+}
+
+div {
+    height: 400px;
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background: rgb(2,0,36);
+    background: linear-gradient(189deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    border: solid 1px;
+    border-radius: 25px;
+    border-color: white;
+    box-shadow: 5px 0px 10px #000000;
+}
